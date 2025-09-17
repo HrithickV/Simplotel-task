@@ -1,5 +1,5 @@
 
-Simplotel Responsive Website
+# Simplotel Responsive Website
 
 Description:
 This is a fully responsive website built from scratch using only HTML, CSS, and JavaScript. The project demonstrates a strong understanding of core web development technologies to ensure a fast, lightweight, and adaptable user experience across all devices.
